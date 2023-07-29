@@ -4,14 +4,14 @@ This project uses Python and SQLAlchemy to do basic data exploration and analysi
 # Part I: Exploratory Climate Analysis
 This part of the project analyzes Hawaii precipitation and weather station data, and produces visualizations of rainfall and temperature patterns. It also supports the planning of visits to Hawaii with:
 
--Local precipitation summaries for each of the local weather stations 
--Temperature dailies for a flexible range of trip dates.
+- Local precipitation summaries for each of the local weather stations 
+- Temperature dailies for a flexible range of trip dates.
 
 It consists of:
 
--A SQLite database (Resources/Hawaii.sqlite)
--A Jupyter notebook (sqlalchemy-challenge/climate_analysis.ipnyb) that uses SQLAlchemy, Python Pandas and MatPlotlib to analyze and visualize this data.
--Bar charts, a histogram and an area chart that are visible within the notebook and also stored as .png files in the sqlalchemy-challenge folder.
+- A SQLite database (Resources/Hawaii.sqlite)
+- A Jupyter notebook (sqlalchemy-challenge/climate_analysis.ipnyb) that uses SQLAlchemy, Python Pandas and MatPlotlib to analyze and visualize this data.
+- Bar charts, a histogram and an area chart that are visible within the notebook and also stored as .png files in the sqlalchemy-challenge folder.
 
 # Part II: Climate App
 
@@ -31,8 +31,8 @@ Min, average & max temperatures for the range beginning with the provided start 
 Min, average & max temperatures for the range beginning with the provided start - end date range
 
 It consists of:
--A SQLite database (Resources/Hawaii.sqlite)
--A Flask app (sqlalchemy-challenge/app.py).
+- A SQLite database (Resources/Hawaii.sqlite)
+- A Flask app (sqlalchemy-challenge/app.py).
 
 # Resources
 1. Modules 10: In Class Activities
