@@ -17,7 +17,6 @@ It consists of:
 
 This part of the project surfaces several SQLAlchemy precipitation and temperature queries in an API using a Python Flask app:
 
-/
 Home page
 /api/v1.0/precipitation
 Daily precipitation totals for last year
@@ -32,7 +31,7 @@ Min, average & max temperatures for the range beginning with the provided start 
 
 It consists of:
 - A SQLite database (Resources/Hawaii.sqlite)
-- A Flask app (sqlalchemy-challenge/app.py).
+- A Flask App (sqlalchemy-challenge/app.py)
 
 # Resources
 1. Modules 10: In Class Activities
