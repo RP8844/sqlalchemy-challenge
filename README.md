@@ -2,10 +2,10 @@
 This project uses Python and SQLAlchemy to do basic data exploration and analysis of a SQLite climate database. All analysis was done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an Flak API to query this climate data.
 
 # Part I: Exploratory Climate Analysis
-This part of the project analyzes Hawaii precipitation and weather station data, and produces visualizations of rainfall and temperature patterns. It also supports the planning of visits to Hawaii with:
+This part of the project analyzes Hawaii precipitation and weather station data to produce visualizations of rainfall and temperature patterns. It also supports the planning of visits to Hawaii with:
 
 - Local precipitation summaries for each of the local weather stations 
-- Temperature dailies for a flexible range of trip dates.
+- Temperature diaries for a flexible range of trip dates
 
 It consists of:
 
@@ -15,7 +15,7 @@ It consists of:
 
 # Part II: Climate App
 
-This part of the project surfaces several SQLAlchemy precipitation and temperature queries in an API using a Python Flask app:
+This part of the project utilizes several SQLAlchemy precipitation and temperature queries in an API using a Python Flask app:
 
 Home page
 /api/v1.0/precipitation
