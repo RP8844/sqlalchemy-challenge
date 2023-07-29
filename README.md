@@ -1,6 +1,6 @@
 # SQLAlchemy-Challenge
 
-Module 10: Advanced SQL
+## Module 10: Advanced SQL
 
 This project uses Python and SQLAlchemy to do basic data exploration and analysis of a SQLite climate database. All analysis was done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an Flak API to query this climate data.
 
