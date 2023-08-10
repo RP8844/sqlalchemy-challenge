@@ -2,7 +2,7 @@
 
 ## Module 10: Advanced SQL
 
-This project uses Python and SQLAlchemy to do basic data exploration and analysis of a SQLite climate database. All analysis was done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an Flak API to query this climate data.
+This project uses Python and SQLAlchemy to do basic data exploration and analysis of a SQLite climate database. All analysis was done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an Flask API to query this climate data.
 
 # Part I: Exploratory Climate Analysis
 This part of the project analyzes Hawaii precipitation and weather station data to produce visualizations of rainfall and temperature patterns. It also supports the planning of visits to Hawaii with:
